@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StupidLogin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StupidLogin_jar</output-path>
+    <root id="archive" name="StupidLogin.jar">
+      <element id="module-output" name="StupidLogin" />
+    </root>
+  </artifact>
+</component>

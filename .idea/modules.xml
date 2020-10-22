@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DebtCalculator/DebtCalculator.iml" filepath="$PROJECT_DIR$/DebtCalculator/DebtCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP1-Course.iml" filepath="$PROJECT_DIR$/Java-OOP1-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/MinMax/MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PotentialEnergy/PotentialEnergy.iml" filepath="$PROJECT_DIR$/PotentialEnergy/PotentialEnergy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SieveOfEratosthenes/SieveOfEratosthenes.iml" filepath="$PROJECT_DIR$/SieveOfEratosthenes/SieveOfEratosthenes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StupidLogin/StupidLogin.iml" filepath="$PROJECT_DIR$/StupidLogin/StupidLogin.iml" />
+    </modules>
+  </component>
+</project>
