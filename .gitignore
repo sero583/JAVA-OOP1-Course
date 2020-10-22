@@ -1,0 +1,8 @@
+# IDE
+# leave individual settings on my device
+.idea/*
+# but share important configurations
+!/.idea/runConfigurations
+
+# StupidLogin output
+out
