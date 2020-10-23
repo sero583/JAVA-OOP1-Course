@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SieveOfEratosthenes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SieveOfEratosthenes_jar</output-path>
+    <root id="archive" name="SieveOfEratosthenes.jar">
+      <element id="module-output" name="SieveOfEratosthenes" />
+    </root>
+  </artifact>
+</component>
