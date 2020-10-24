@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DebtCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DebtCalculator_jar</output-path>
+    <root id="archive" name="DebtCalculator.jar">
+      <element id="module-output" name="DebtCalculator" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HowOldAmI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HowOldAmI_jar</output-path>
+    <root id="archive" name="HowOldAmI.jar">
+      <element id="module-output" name="HowOldAmI" />
+    </root>
+  </artifact>
+</component>
